@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Prof-AKRai-Website/static/css/main.e88a93bd.css",
+    "main.js": "/Prof-AKRai-Website/static/js/main.17293abd.js",
+    "static/media/Student-Vijay.jpg": "/Prof-AKRai-Website/static/media/Student-Vijay.7eed8f8ac9668de569df.jpg",
+    "static/media/Student-Susmita.jpg": "/Prof-AKRai-Website/static/media/Student-Susmita.e621c25d7f4e1d0b5066.jpg",
+    "static/media/DummyPic.png": "/Prof-AKRai-Website/static/media/DummyPic.2376d98ea19b8f1f60c7.png",
+    "static/media/IITKGP.png": "/Prof-AKRai-Website/static/media/IITKGP.560c6cf01cfc0c28a86c.png",
+    "static/media/WomanPowerQuote.jpg": "/Prof-AKRai-Website/static/media/WomanPowerQuote.a91740f00cb11b6c9791.jpg",
+    "static/media/Aesthetic.jpg": "/Prof-AKRai-Website/static/media/Aesthetic.94d98bd02cd43881ba11.jpg",
+    "static/media/DreamPic.jpg": "/Prof-AKRai-Website/static/media/DreamPic.2efbaa711d6d076c968c.jpg",
+    "static/media/SmileQuote.jpg": "/Prof-AKRai-Website/static/media/SmileQuote.9129d72d90b96dfdb6ea.jpg",
+    "index.html": "/Prof-AKRai-Website/index.html",
+    "main.e88a93bd.css.map": "/Prof-AKRai-Website/static/css/main.e88a93bd.css.map",
+    "main.17293abd.js.map": "/Prof-AKRai-Website/static/js/main.17293abd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88a93bd.css",
+    "static/js/main.17293abd.js"
+  ]
+}
